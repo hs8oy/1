@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background:url(dark.png);
+    
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-size: 40px;
+    margin: 8px 0;
+    transition:0.5s ease;
+   
+}
+
+
+div {
+    background-color: #1f293d;
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    height: 80%;
+    border-radius: 25px;
+    padding: 10px 50px;
+   
+
+
+
+}
+
+
+a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin: 30px 0;
+
+
+}
+
+.in {
+    transition: 0.5s ease;
+    
+}
+
+.in:hover {
+
+    background-color: #dd2a7b;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+}
+
+.fc {
+    transition: 0.5s ease;
+}
+
+.fc:hover {
+
+    background-color: rgb(8, 47, 223);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+}
+
+.tw {
+    transition: 0.5s ease;
+}
+
+.tw:hover {
+
+    background-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+
+}
+
+.sn {
+    transition: 0.5s ease;
+}
+
+.sn:hover {
+    background-color: rgb(238, 255, 5);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+}
+
+.ti {
+    transition: 0.5s ease;
+}
+
+.ti:hover {
+    background-color: rgb(255, 0, 255);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.tt {
+    transition: 0.5s ease;
+}
+
+.tt:hover {
+    background-color: rgb(0, 110, 255);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.dd {
+    transition: 0.5s ease;
+}
+
+.dd:hover {
+
+    background-color: rgb(45, 104, 180);
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 6px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+h3 {
+    color: white;
+font-family: 'Cairo', sans-serif;
+font-size: 10px;
+
+
+
+
+}
+
+.r4 {
+    width: 100px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 15px ;
+
+
+}
+
+.lom {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size:15px;
+    background-color: #1f293d;    width:fit-content;
+    border-radius: 8px;
+    padding: 3px 10px;
+    margin: 5px auto;
+transition: 0.5s ease;
+}
+
+.lom:hover {
+    background-color: rgb(30, 30, 80);
+    transform: scale(1.1);
+}
+.trt {
+    margin:1px 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+}
